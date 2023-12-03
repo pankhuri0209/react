@@ -1,0 +1,5 @@
+CDN-
+
+cross-origin- 
+
+Diff between async and defer-
